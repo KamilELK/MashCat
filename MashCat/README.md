@@ -1,6 +1,6 @@
-# y
+# Project Info
 
-> y
+> This project is a mini web application to find the cutest cat between 2.
 
 ## Build Setup
 
